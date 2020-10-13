@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befbc030-bc4a-4021-834d-b23da8618b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/welinq.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,8 @@
       <workItem from="1602529961298" duration="288000" />
       <workItem from="1602530806171" duration="1323000" />
       <workItem from="1602535267379" duration="3062000" />
-      <workItem from="1602618276807" duration="1497000" />
+      <workItem from="1602618276807" duration="1854000" />
+      <workItem from="1602627482752" duration="46000" />
     </task>
     <servers />
   </component>
@@ -70,5 +73,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602536086774" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602627518834">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602627518834" />
   </component>
 </project>
