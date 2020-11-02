@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befbc030-bc4a-4021-834d-b23da8618b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/welinq_icon.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <workItem from="1602627482752" duration="213000" />
       <workItem from="1602663480425" duration="2000" />
       <workItem from="1603289415041" duration="614000" />
-      <workItem from="1604327406089" duration="393000" />
+      <workItem from="1604327406089" duration="525000" />
     </task>
     <servers />
   </component>
