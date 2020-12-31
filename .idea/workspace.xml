@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befbc030-bc4a-4021-834d-b23da8618b60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Hotpot 0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Hotpot 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Hotpot 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Hotpot 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Hotpot 4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -62,7 +67,11 @@
       <workItem from="1604327406089" duration="701000" />
       <workItem from="1604333866016" duration="1620000" />
       <workItem from="1608068984520" duration="10000" />
-      <workItem from="1608229126921" duration="360000" />
+      <workItem from="1608229126921" duration="539000" />
+      <workItem from="1608244380223" duration="1239000" />
+      <workItem from="1608285738397" duration="75000" />
+      <workItem from="1608289909268" duration="110000" />
+      <workItem from="1609374524096" duration="886000" />
     </task>
     <servers />
   </component>
@@ -74,6 +83,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1602529218197" />
+    <state x="389" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609375302552">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="389" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1609375302552" />
     <state x="301" y="175" width="837" height="550" key="find.popup" timestamp="1604344847892">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
