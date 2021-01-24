@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="befbc030-bc4a-4021-834d-b23da8618b60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/logo_size_invert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/output-onlinepngtools.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/output-onlinepngtools2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone-12.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Hotpot 0.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Hotpot 0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Hotpot 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Hotpot 1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Hotpot 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Hotpot 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Hotpot 3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Hotpot 3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Hotpot 4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Hotpot 4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/homepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/homepage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -41,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
@@ -76,7 +81,8 @@
       <workItem from="1609424240967" duration="11000" />
       <workItem from="1609424272538" duration="724000" />
       <workItem from="1609436444026" duration="61000" />
-      <workItem from="1610755563896" duration="639000" />
+      <workItem from="1610755563896" duration="2446000" />
+      <workItem from="1611508401043" duration="1895000" />
     </task>
     <servers />
   </component>
